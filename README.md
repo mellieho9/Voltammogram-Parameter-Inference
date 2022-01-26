@@ -11,8 +11,5 @@ Upon experimentation, electrical signals produced from fuel cells are highly obs
 2. Find a gradient descent through the use of real data on the simulated cyclic voltammogram.
 3. Use variants of NeuralODE to produce an inverse model that compute the necessary properties that a glucose fuel cell ought to have to produce sufficient electricity.
 
-## Progress
-To be updated
-
 ## License
 [MIT](https://choosealicense.com/licenses/MIT/)
