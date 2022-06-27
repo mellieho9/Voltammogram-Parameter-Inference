@@ -6,7 +6,11 @@ Glucose is one of the vital energy sources for living species. It is formed afte
 
 A glucose fuel cell generates electricity through the oxidation of glucose and reduction of oxygen. Unlike batteries, which need to be replaced once their stored chemicals are exhausted, fuel cells work as long as the fuel is replenished. Fuel cells that run on glucose could be a good alternative to lithium-ion batteries for powering implanted devices. 
 
-Upon experimentation, electrical signals produced from fuel cells are highly obscure, raising questions on whether it will provide sufficient electricity to run one device. This project seeks to deconvolute those instances by:
+Upon experimentation, electrical signals produced from fuel cells are highly obscure, raising questions on whether it will provide sufficient electricity to run one device. 
+
+## Objectives
+
+This project seeks to deconvolute those instances by:
 1. Simulate a cyclic voltammogram - an electrochemical device that measures the current by cycling the potential of a working electrode. 
 2. Find a gradient descent through the use of real data on the simulated cyclic voltammogram.
 3. Use variants of NeuralODE to produce an inverse model that compute the necessary properties that a glucose fuel cell ought to have to produce sufficient electricity.
